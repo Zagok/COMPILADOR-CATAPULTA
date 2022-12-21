@@ -1,0 +1,12 @@
+C:\Users\Fernando López\source\repos\PresentacionCompilador\EntidadesCompilador\bin\Debug\EntidadesCompilador.dll
+C:\Users\Fernando López\source\repos\PresentacionCompilador\EntidadesCompilador\bin\Debug\EntidadesCompilador.pdb
+C:\Users\Fernando López\source\repos\PresentacionCompilador\EntidadesCompilador\obj\Debug\EntidadesCompilador.csproj.AssemblyReference.cache
+C:\Users\Fernando López\source\repos\PresentacionCompilador\EntidadesCompilador\obj\Debug\EntidadesCompilador.csproj.CoreCompileInputs.cache
+C:\Users\Fernando López\source\repos\PresentacionCompilador\EntidadesCompilador\obj\Debug\EntidadesCompilador.dll
+C:\Users\Fernando López\source\repos\PresentacionCompilador\EntidadesCompilador\obj\Debug\EntidadesCompilador.pdb
+D:\Universidad\Semestre 6\Lenguajes y Autómatas II\PresentacionCompilador\PresentacionCompilador\EntidadesCompilador\bin\Debug\EntidadesCompilador.dll
+D:\Universidad\Semestre 6\Lenguajes y Autómatas II\PresentacionCompilador\PresentacionCompilador\EntidadesCompilador\bin\Debug\EntidadesCompilador.pdb
+D:\Universidad\Semestre 6\Lenguajes y Autómatas II\PresentacionCompilador\PresentacionCompilador\EntidadesCompilador\obj\Debug\EntidadesCompilador.csproj.AssemblyReference.cache
+D:\Universidad\Semestre 6\Lenguajes y Autómatas II\PresentacionCompilador\PresentacionCompilador\EntidadesCompilador\obj\Debug\EntidadesCompilador.csproj.CoreCompileInputs.cache
+D:\Universidad\Semestre 6\Lenguajes y Autómatas II\PresentacionCompilador\PresentacionCompilador\EntidadesCompilador\obj\Debug\EntidadesCompilador.dll
+D:\Universidad\Semestre 6\Lenguajes y Autómatas II\PresentacionCompilador\PresentacionCompilador\EntidadesCompilador\obj\Debug\EntidadesCompilador.pdb

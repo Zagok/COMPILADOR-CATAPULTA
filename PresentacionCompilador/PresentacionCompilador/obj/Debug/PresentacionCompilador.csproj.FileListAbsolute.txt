@@ -1,0 +1,56 @@
+C:\Users\Fernando López\source\repos\PresentacionCompilador\PresentacionCompilador\bin\Debug\PresentacionCompilador.exe
+C:\Users\Fernando López\source\repos\PresentacionCompilador\PresentacionCompilador\bin\Debug\PresentacionCompilador.pdb
+C:\Users\Fernando López\source\repos\PresentacionCompilador\PresentacionCompilador\bin\Debug\ManejadorCompilador.dll
+C:\Users\Fernando López\source\repos\PresentacionCompilador\PresentacionCompilador\bin\Debug\EntidadesCompilador.dll
+C:\Users\Fernando López\source\repos\PresentacionCompilador\PresentacionCompilador\bin\Debug\ManejadorCompilador.pdb
+C:\Users\Fernando López\source\repos\PresentacionCompilador\PresentacionCompilador\bin\Debug\EntidadesCompilador.pdb
+C:\Users\Fernando López\source\repos\PresentacionCompilador\PresentacionCompilador\obj\Debug\PresentacionCompilador.csproj.AssemblyReference.cache
+C:\Users\Fernando López\source\repos\PresentacionCompilador\PresentacionCompilador\obj\Debug\PresentacionCompilador.FrmCompilador.resources
+C:\Users\Fernando López\source\repos\PresentacionCompilador\PresentacionCompilador\obj\Debug\PresentacionCompilador.csproj.GenerateResource.cache
+C:\Users\Fernando López\source\repos\PresentacionCompilador\PresentacionCompilador\obj\Debug\PresentacionCompilador.csproj.CoreCompileInputs.cache
+C:\Users\Fernando López\source\repos\PresentacionCompilador\PresentacionCompilador\obj\Debug\PresentacionCompilador.exe
+C:\Users\Fernando López\source\repos\PresentacionCompilador\PresentacionCompilador\obj\Debug\PresentacionCompilador.pdb
+C:\Users\Fernando López\source\repos\PresentacionCompilador\PresentacionCompilador\obj\Debug\PresentacionCompilador.csproj.CopyComplete
+C:\Users\Fernando López\Desktop\PresentacionCompilador\PresentacionCompilador\bin\Debug\PresentacionCompilador.exe
+C:\Users\Fernando López\Desktop\PresentacionCompilador\PresentacionCompilador\bin\Debug\PresentacionCompilador.pdb
+C:\Users\Fernando López\Desktop\PresentacionCompilador\PresentacionCompilador\bin\Debug\ManejadorCompilador.dll
+C:\Users\Fernando López\Desktop\PresentacionCompilador\PresentacionCompilador\bin\Debug\EntidadesCompilador.dll
+C:\Users\Fernando López\Desktop\PresentacionCompilador\PresentacionCompilador\bin\Debug\ManejadorCompilador.pdb
+C:\Users\Fernando López\Desktop\PresentacionCompilador\PresentacionCompilador\bin\Debug\EntidadesCompilador.pdb
+C:\Users\Fernando López\Desktop\PresentacionCompilador\PresentacionCompilador\obj\Debug\PresentacionCompilador.csproj.AssemblyReference.cache
+C:\Users\Fernando López\Desktop\PresentacionCompilador\PresentacionCompilador\obj\Debug\PresentacionCompilador.FrmCompilador.resources
+C:\Users\Fernando López\Desktop\PresentacionCompilador\PresentacionCompilador\obj\Debug\PresentacionCompilador.csproj.GenerateResource.cache
+C:\Users\Fernando López\Desktop\PresentacionCompilador\PresentacionCompilador\obj\Debug\PresentacionCompilador.csproj.CoreCompileInputs.cache
+C:\Users\Fernando López\Desktop\PresentacionCompilador\PresentacionCompilador\obj\Debug\PresentacionCompilador.exe
+C:\Users\Fernando López\Desktop\PresentacionCompilador\PresentacionCompilador\obj\Debug\PresentacionCompilador.pdb
+C:\Users\Fernando López\Desktop\PresentacionCompilador\PresentacionCompilador\obj\Debug\PresentacionCompilador.csproj.CopyComplete
+D:\Universidad\Semestre 6\Lenguajes y Autómatas II\PresentacionCompilador\PresentacionCompilador\PresentacionCompilador\bin\Debug\PresentacionCompilador.exe
+D:\Universidad\Semestre 6\Lenguajes y Autómatas II\PresentacionCompilador\PresentacionCompilador\PresentacionCompilador\bin\Debug\PresentacionCompilador.pdb
+D:\Universidad\Semestre 6\Lenguajes y Autómatas II\PresentacionCompilador\PresentacionCompilador\PresentacionCompilador\bin\Debug\ManejadorCompilador.dll
+D:\Universidad\Semestre 6\Lenguajes y Autómatas II\PresentacionCompilador\PresentacionCompilador\PresentacionCompilador\bin\Debug\EntidadesCompilador.dll
+D:\Universidad\Semestre 6\Lenguajes y Autómatas II\PresentacionCompilador\PresentacionCompilador\PresentacionCompilador\bin\Debug\ManejadorCompilador.pdb
+D:\Universidad\Semestre 6\Lenguajes y Autómatas II\PresentacionCompilador\PresentacionCompilador\PresentacionCompilador\bin\Debug\EntidadesCompilador.pdb
+D:\Universidad\Semestre 6\Lenguajes y Autómatas II\PresentacionCompilador\PresentacionCompilador\PresentacionCompilador\obj\Debug\PresentacionCompilador.csproj.AssemblyReference.cache
+D:\Universidad\Semestre 6\Lenguajes y Autómatas II\PresentacionCompilador\PresentacionCompilador\PresentacionCompilador\obj\Debug\PresentacionCompilador.csproj.SuggestedBindingRedirects.cache
+D:\Universidad\Semestre 6\Lenguajes y Autómatas II\PresentacionCompilador\PresentacionCompilador\PresentacionCompilador\obj\Debug\PresentacionCompilador.FrmCompilador.resources
+D:\Universidad\Semestre 6\Lenguajes y Autómatas II\PresentacionCompilador\PresentacionCompilador\PresentacionCompilador\obj\Debug\PresentacionCompilador.csproj.GenerateResource.cache
+D:\Universidad\Semestre 6\Lenguajes y Autómatas II\PresentacionCompilador\PresentacionCompilador\PresentacionCompilador\obj\Debug\PresentacionCompilador.csproj.CoreCompileInputs.cache
+D:\Universidad\Semestre 6\Lenguajes y Autómatas II\PresentacionCompilador\PresentacionCompilador\PresentacionCompilador\obj\Debug\PresentacionCompilador.csproj.CopyComplete
+D:\Universidad\Semestre 6\Lenguajes y Autómatas II\PresentacionCompilador\PresentacionCompilador\PresentacionCompilador\obj\Debug\PresentacionCompilador.exe
+D:\Universidad\Semestre 6\Lenguajes y Autómatas II\PresentacionCompilador\PresentacionCompilador\PresentacionCompilador\obj\Debug\PresentacionCompilador.pdb
+D:\Universidad\Semestre 6\Lenguajes y Autómatas II\PresentacionCompilador\PresentacionCompilador\PresentacionCompilador\obj\Debug\PresentacionCompilador.Properties.Resources.resources
+D:\Universidad\Semestre 6\Lenguajes y Autómatas II\PresentacionCompilador - copia\PresentacionCompilador\PresentacionCompilador\bin\Debug\PresentacionCompilador.exe
+D:\Universidad\Semestre 6\Lenguajes y Autómatas II\PresentacionCompilador - copia\PresentacionCompilador\PresentacionCompilador\bin\Debug\PresentacionCompilador.pdb
+D:\Universidad\Semestre 6\Lenguajes y Autómatas II\PresentacionCompilador - copia\PresentacionCompilador\PresentacionCompilador\bin\Debug\ManejadorCompilador.dll
+D:\Universidad\Semestre 6\Lenguajes y Autómatas II\PresentacionCompilador - copia\PresentacionCompilador\PresentacionCompilador\bin\Debug\EntidadesCompilador.dll
+D:\Universidad\Semestre 6\Lenguajes y Autómatas II\PresentacionCompilador - copia\PresentacionCompilador\PresentacionCompilador\bin\Debug\ManejadorCompilador.pdb
+D:\Universidad\Semestre 6\Lenguajes y Autómatas II\PresentacionCompilador - copia\PresentacionCompilador\PresentacionCompilador\bin\Debug\EntidadesCompilador.pdb
+D:\Universidad\Semestre 6\Lenguajes y Autómatas II\PresentacionCompilador - copia\PresentacionCompilador\PresentacionCompilador\obj\Debug\PresentacionCompilador.csproj.AssemblyReference.cache
+D:\Universidad\Semestre 6\Lenguajes y Autómatas II\PresentacionCompilador - copia\PresentacionCompilador\PresentacionCompilador\obj\Debug\PresentacionCompilador.csproj.SuggestedBindingRedirects.cache
+D:\Universidad\Semestre 6\Lenguajes y Autómatas II\PresentacionCompilador - copia\PresentacionCompilador\PresentacionCompilador\obj\Debug\PresentacionCompilador.FrmCompilador.resources
+D:\Universidad\Semestre 6\Lenguajes y Autómatas II\PresentacionCompilador - copia\PresentacionCompilador\PresentacionCompilador\obj\Debug\PresentacionCompilador.Properties.Resources.resources
+D:\Universidad\Semestre 6\Lenguajes y Autómatas II\PresentacionCompilador - copia\PresentacionCompilador\PresentacionCompilador\obj\Debug\PresentacionCompilador.csproj.GenerateResource.cache
+D:\Universidad\Semestre 6\Lenguajes y Autómatas II\PresentacionCompilador - copia\PresentacionCompilador\PresentacionCompilador\obj\Debug\PresentacionCompilador.csproj.CoreCompileInputs.cache
+D:\Universidad\Semestre 6\Lenguajes y Autómatas II\PresentacionCompilador - copia\PresentacionCompilador\PresentacionCompilador\obj\Debug\PresentacionCompilador.csproj.CopyComplete
+D:\Universidad\Semestre 6\Lenguajes y Autómatas II\PresentacionCompilador - copia\PresentacionCompilador\PresentacionCompilador\obj\Debug\PresentacionCompilador.exe
+D:\Universidad\Semestre 6\Lenguajes y Autómatas II\PresentacionCompilador - copia\PresentacionCompilador\PresentacionCompilador\obj\Debug\PresentacionCompilador.pdb
